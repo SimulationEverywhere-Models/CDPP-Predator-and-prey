@@ -1,0 +1,3 @@
+Este programa es util para generar mapas graficos de laberintos para la simulación devlab. Primero se ingresa el tamaño del espacio celular en x e y. Luego el archivo de entrada en formato .map y la salida en formato .val.
+El formato .map es un archivo de texto dónde las X se interpretan como valores de laberinto. Las L (de lobo) cómo predadores y las C (conejo) cómo presas. Los espacios vacíos del laberinto se rellenan con 0 o con _ por ejemplo ya que los espacios se consideran cambios de lineas.
+En el directorio hay ejemplos de .map con el nombre mapX.map, dónde X es el número de ejemplo.
